@@ -47,13 +47,6 @@ int main(void){
                 }
                 found = 0;
             }
-            if( g == 5){
-                printf("You win");
-                break;
-            }
-            else{
-                g=0;
-            }
 		}
 		
 		if(g > 4){
